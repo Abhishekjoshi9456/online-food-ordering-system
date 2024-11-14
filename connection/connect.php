@@ -2,7 +2,7 @@
 $servername = "localhost:3307"; //server
 $username = "root"; //username
 $password = "Abhishek@9456"; //password
-$dbname = "code_camp_bd_fos";  //database
+$dbname = "code_camp_db_fos";  //database
 
 // Create connection
 $db = mysqli_connect($servername, $username, $password, $dbname); // connecting 
