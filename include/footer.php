@@ -26,8 +26,8 @@
                       </div>
                       <div class="col-xs-12 col-sm-4 address color-gray">
                           <h5>Address</h5>
-                          <p>Bogura, Rajshahi, Bangladesh.</p>
-                          <h5>Phone: +8801608445456</a></h5>
+                          <p>Srinagar, Uttarakhand, India.</p>
+                          <h5>Phone: +919456107889</a></h5>
                       </div>
                       <div class="col-xs-12 col-sm-5 additional-info color-gray">
                           <h5>Addition informations</h5>
@@ -38,14 +38,3 @@
 
           </div>
       </footer>
-
-
-      <!-- /*!
- *  Author Name: MH RONY.
- *  GigHub Link: https://github.com/dev-mhrony
- *  Facebook Link:https://www.facebook.com/dev.mhrony
- *  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
- *  Visit My Website : developerrony.com 
-
-      */ -->
