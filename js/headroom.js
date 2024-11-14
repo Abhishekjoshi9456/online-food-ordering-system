@@ -1,12 +1,4 @@
-/*!
- *  Author Name: MH RONY.
- *  GigHub Link: https://github.com/dev-mhrony
- *  Facebook Link:https://www.facebook.com/dev.mhrony
- *  Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
-    for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com  
- *  Visit My Website : developerrony.com -->* 
-    
-*/
+
 
 (function (root, factory) {
   "use strict";
@@ -40,11 +32,7 @@
     window.webkitRequestAnimationFrame ||
     window.mozRequestAnimationFrame;
 
-  /**
-   * Handles debouncing of events via requestAnimationFrame
-   * @see http://www.html5rocks.com/en/tutorials/speed/animations/
-   * @param {Function} callback The callback to handle whichever event
-   */
+  
   function Debouncer(callback) {
     this.callback = callback;
     this.ticking = false;
